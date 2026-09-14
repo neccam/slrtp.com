@@ -1,0 +1,191 @@
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Keynotes (https://www.slrtp.com)
+
+Presenter: Prof. Lale Akarun
+
+ASL & BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Keynotes (https://www.slrtp.com)
+
+Presenter: Prof. Matt Huenerfauth
+
+ASL & BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Keynotes (https://www.slrtp.com)
+
+Presenter: Dr. Oscar Koller
+
+ASL & BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Keynotes (https://www.slrtp.com)
+
+Presenter: Prof. Bencie Woll
+
+ASL & BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Keynotes (https://www.slrtp.com)
+
+Presenter: Prof. Christian Vogler
+
+BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Full Papers (https://www.slrtp.com)
+
+Title: [Best Paper Award] Automatic Segmentation of Sign Language into Subtitle-Units
+Authors: Hannah Bull (LIMSI-CNRS), Michele Gouiffes (LIMSI-CNRS), Annelies Braffort (LIMSI-CNRS)
+
+Paper: https://www.slrtp.com/papers/full_papers/SLRTP.FP.01.011.paper.pdf
+
+ASL & BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Full Papers (https://www.slrtp.com)
+
+Title: Phonologically-meaningful Subunits for Deep Learning-based Sign Language Recognition
+Authors: Mark Borg (University of Malta), Kenneth P. Camilleri (University of Malta)
+
+Paper: https://www.slrtp.com/papers/full_papers/SLRTP.FP.02.012.paper.pdf
+
+ASL & BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Full Papers (https://www.slrtp.com)
+
+Title: Recognition of affective and grammatical facial expressions: a study for Brazilian Sign Language
+Authors: Emely Pujolli da Silva (University of Campinas), Paula Dornhofer Paro Costa (University of Campinas), Kate Mamhy Oliveira Kumada (Federal University of ABC), José Mario De Martino (University of Campinas), Gabriela Araujo Florentino (Seli Institute)
+
+Paper: https://www.slrtp.com/papers/full_papers/SLRTP.FP.03.015.paper.pdf
+
+ASL & BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Full Papers (https://www.slrtp.com)
+
+Title: Real-Time Sign Language Detection using Human Pose Estimation
+Authors: Amit Moryossef (Bar-Ilan University, Google), Ioannis Tsochantaridis (Google), Roee Aharoni (Google), Srini Narayanan (Google), Sarah Ebling (University Of Zurich)
+
+Paper: https://www.slrtp.com/papers/full_papers/SLRTP.FP.04.017.paper.pdf
+
+ASL & BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Full Papers (https://www.slrtp.com)
+
+Title: Exploiting 3D Hand Pose Estimation in Deep Learning-Based Sign Language Recognition from RGB Videos
+Authors: Maria Parelli (National Technical University of Athens), Katerina Papadimitriou (University of Thessaly), Gerasimos Potamianos (University of Thessaly), Georgios Pavlakos (University of Pennsylvania), Petros Maragos (National Technical University of Athens)
+
+Paper: https://www.slrtp.com/papers/full_papers/SLRTP.FP.05.026.paper.pdf
+
+ASL & BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Full Papers (https://www.slrtp.com)
+
+Title: A Plan for Developing an Auslan Communication Technologies Pipeline
+Authors: Jessica Korte (The University of Queensland), Axel Bender (Defense Science and Technology, Australia), Guy Gallasch (Defense Science and Technology, Australia), Janet Wiles (The University of Queensland), Andrew Back (The University of Queensland)
+
+Paper: https://www.slrtp.com/papers/full_papers/SLRTP.FP.06.005.paper.pdf
+
+ASL & BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Full Papers (https://www.slrtp.com)
+
+Title: A Multi-modal Machine Learning Approach and Toolkit to Automate Recognition of Early Stages of Dementia among British Sign Language Users
+Authors: Xing Liang (University of Greenwich), Anastassia Angelopoulou (University of Westminster - UW), Epaminondas Kapetanios (UW), Bencie Woll (DCAL, University College of London - UCL),  Reda Al-batat (UW), Tyron Woolfe (DCAL, UCL)
+
+Paper: https://www.slrtp.com/papers/full_papers/SLRTP.FP.07.010.paper.pdf
+
+ASL & BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Full Papers (https://www.slrtp.com)
+
+Title: Score-level Multi Cue Fusion for Sign Language Recognition
+Authors: Çağrı Gökçe (Bogazici University), Oğulcan Özdemir (Bogazici University), Ahmet Alp Kindiroglu (Bogazici University), Lale Akarun (Bogazici University)
+
+Paper: https://www.slrtp.com/papers/full_papers/SLRTP.FP.08.016.paper.pdf
+
+ASL & BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Full Papers (https://www.slrtp.com)
+
+Title: Unsupervised Discovery of Sign Terms by K-Nearest Neighbours Approach
+Authors: Korhan Polat (Bogazici University), Murat Saraçlar (Bogazici University)
+
+Paper: https://www.slrtp.com/papers/full_papers/SLRTP.FP.09.028.paper.pdf
+
+ASL & BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Full Papers (https://www.slrtp.com)
+
+Title: Improving Keyword Search Performance in Sign Language with Hand Shape Features
+Authors: Nazif Can Tamer (Bogazici University), Murat Saraçlar (Bogazici University)
+
+Paper: https://www.slrtp.com/papers/full_papers/SLRTP.FP.10.029.paper.pdf
+
+ASL & BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Extended Abstracts (https://www.slrtp.com)
+
+Title: Accessibility for Deaf and Hard of Hearing Users: Sign Language Conversational User Interfaces
+Authors: Abraham Glasser (Rochester Institute of Technology),  Vaishnavi Mande (Rochester Institute of Technology), Matt Huenerfauth (Rochester Institute of Technology)
+
+Paper: https://www.slrtp.com/papers/extended_abstracts/SLRTP.EA.18.027.paper.pdf
+
+BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Extended Abstracts (https://www.slrtp.com)
+
+Title: Fingerspelling Recognition in the Wild with Iterative Visual Attention
+Authors: Bowen Shi (Toyota Technological Institute at Chicago - TTIC), Aurora Martinez Del Rio (University of Chicago), Jonathan Keane (University of Chicago), Diane Brentari (University of Chicago), Greg Shakhnarovich (TTIC), Karen Livescu (TTIC)
+
+Paper: https://www.slrtp.com/papers/extended_abstracts/SLRTP.EA.17.025.paper.pdf
+
+ASL & BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Extended Abstracts (https://www.slrtp.com)
+
+Title: Effect of Ranking and Precision of Results on Users' Satisfaction with Search-by-Video Sign-Language Dictionaries
+Authors: Saad Hassan (Rochester Institute of Technology - RIT), Oliver Alonzo (RIT), Abraham Glasser (RIT), Matt Huenerfauth (RIT)
+
+Paper: https://www.slrtp.com/papers/extended_abstracts/SLRTP.EA.16.023.paper.pdf
+
+ASL & BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Extended Abstracts (https://www.slrtp.com)
+
+Title: 3D Hands, Face and Body Extraction for Sign Language Recognition
+Authors: Agelos Kratimenos (National Technical University of Athens), Georgios Pavlakos (University of Pennsylvania), Petros Maragos (National Technical University of Athens)
+
+Paper: https://www.slrtp.com/papers/extended_abstracts/SLRTP.EA.15.022.paper.pdf
+
+ASL & BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Extended Abstracts (https://www.slrtp.com)
+
+Title: Can Everybody Sign Now? Exploring Sign Language Video Generation from 2D Poses
+Authors: Lucas Ventura (Universitat Politecnica de Catalunya), Amanda Duarte (Universitat Politecnica de Catalunya), Xavier Giro-i-Nieto (Universitat Politecnica de Catalunya)
+
+Paper: https://www.slrtp.com/papers/extended_abstracts/SLRTP.EA.14.018.paper.pdf
+
+ASL & BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Extended Abstracts (https://www.slrtp.com)
+
+Title: How2Sign: A Large-scale Multimodal Dataset for Continuous American Sign Language
+Authors: Amanda Duarte (Universitat Politecnica de Catalunya - UPC), Shruti Palaskar (Carnegie Mellon University - CMU), Deepti Ghadiyaram (Facebook AI), Kenneth De Haan (Gallaudet University), Florian Metze (CMU), Jordi Torres (UPC), Xavier Giro-i-Nieto (UPC)
+
+Paper: https://www.slrtp.com/papers/extended_abstracts/SLRTP.EA.13.014.paper.pdf
+
+ASL & BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Extended Abstracts (https://www.slrtp.com)
+
+Title: Attention is All You Sign: Sign Language Translation with Transformers
+Authors: Kayo Yin (École Polytechnique), Jesse Read (Ecole Polytechnique)
+
+Paper: https://www.slrtp.com/papers/extended_abstracts/SLRTP.EA.12.009.paper.pdf
+
+ASL & BSL Translations by Dr. Robert Adam
+-----------
+Sign Language Recognition, Translation and Production Workshop, ECCV 2020 - Extended Abstracts (https://www.slrtp.com)
+
+Title: Towards Continuous Recognition of Illustrative and Spatial Structures in Sign Language
+Authors: Valentin Belissen (LIMSI-CNRS), Annelies Braffort (LIMSI-CNRS), Michele Gouiffes (LIMSI-CNRS)
+
+Paper: https://www.slrtp.com/papers/extended_abstracts/SLRTP.EA.11.007.paper.pdf
+
+ASL & BSL Translations by Dr. Robert Adam
