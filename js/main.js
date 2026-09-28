@@ -8,7 +8,6 @@
 
         // Launch Functions
         Launch: function () {
-            fn.GoogleMaps();
             fn.MainSliderAlign();
             fn.MainSlider();
             fn.Stellar();
